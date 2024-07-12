@@ -1,0 +1,25 @@
+D:\My EPP WorkStation-20120920\lqSP\lqSP\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120920\lqSP\lqSP\bin\Debug\lqSP.dll
+D:\My EPP WorkStation-20120920\lqSP\lqSP\bin\Debug\lqSP.pdb
+D:\My EPP WorkStation-20120920\lqSP\lqSP\obj\Debug\lqSP.dll
+D:\My EPP WorkStation-20120920\lqSP\lqSP\obj\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121126\lqSP\lqSP\bin\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20121126\lqSP\lqSP\bin\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121126\lqSP\lqSP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20121126\lqSP\lqSP\obj\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20121126\lqSP\lqSP\obj\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121225\lqSP\lqSP\bin\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20121225\lqSP\lqSP\bin\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121225\lqSP\lqSP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20121225\lqSP\lqSP\obj\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20121225\lqSP\lqSP\obj\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqSP\lqSP\bin\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqSP\lqSP\bin\Debug\lqSP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqSP\lqSP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20130129\lqSP\lqSP\obj\Debug\lqSP.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqSP\lqSP\obj\Debug\lqSP.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqSP\lqSP\bin\Debug\lqSP.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqSP\lqSP\bin\Debug\lqSP.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqSP\lqSP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\论文相关\论文区\420同震\程序\lqSP\lqSP\obj\Debug\lqSP.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqSP\lqSP\obj\Debug\lqSP.pdb

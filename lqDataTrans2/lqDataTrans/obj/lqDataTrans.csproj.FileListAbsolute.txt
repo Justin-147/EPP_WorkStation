@@ -1,0 +1,15 @@
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.dll
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.pdb
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.dll
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\lqDataTrans\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\lqDataTrans\bin\Debug\lqDataTrans.dll
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\lqDataTrans\bin\Debug\lqDataTrans.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\lqDataTrans\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\lqDataTrans\obj\Debug\lqDataTrans.dll
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\lqDataTrans\obj\Debug\lqDataTrans.pdb

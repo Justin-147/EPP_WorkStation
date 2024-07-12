@@ -1,0 +1,121 @@
+D:\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\My EPP WorkStation\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\My EPP WorkStation-20120815\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\My EPP WorkStation-20120920\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20120920\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\My EPP WorkStation-20120921\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\My EPP WorkStation-20121114\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\工作区\要做的\My EPP WorkStation-20121126\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\工作区\要做的\My EPP WorkStation-20121126\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\工作区\要做的\My EPP WorkStation-20130129\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Form1.resources
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.Properties.Resources.resources
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.csproj.GenerateResource.Cache
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.exe
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\ExampleCall.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\ywMatrixOperate.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqCommonUse.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTACall.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqZJ.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqRCCandSTA\ExampleCall\bin\Debug\lqRCCandSTA.pdb

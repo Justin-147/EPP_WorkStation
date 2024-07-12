@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lqTwys", "lqTwys\lqTwys.csproj", "{0C4D34BA-D3DE-492F-9869-90BBB6969435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lqTheoryTide", "lqTheoryTide\lqTheoryTide.csproj", "{D78DF167-35E7-430C-A1C6-23C6CAEE87BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TideCall", "TideCall\TideCall.csproj", "{08C197A3-1D8D-4C60-9214-C40EC8E34ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4D34BA-D3DE-492F-9869-90BBB6969435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4D34BA-D3DE-492F-9869-90BBB6969435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4D34BA-D3DE-492F-9869-90BBB6969435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4D34BA-D3DE-492F-9869-90BBB6969435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78DF167-35E7-430C-A1C6-23C6CAEE87BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78DF167-35E7-430C-A1C6-23C6CAEE87BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78DF167-35E7-430C-A1C6-23C6CAEE87BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78DF167-35E7-430C-A1C6-23C6CAEE87BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C197A3-1D8D-4C60-9214-C40EC8E34ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C197A3-1D8D-4C60-9214-C40EC8E34ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C197A3-1D8D-4C60-9214-C40EC8E34ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C197A3-1D8D-4C60-9214-C40EC8E34ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

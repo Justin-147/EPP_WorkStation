@@ -1,0 +1,5 @@
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.dll
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\bin\Debug\lqDataTrans.pdb
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.dll
+D:\My EPP WorkStation-20120921\lqDataTrans\lqDataTrans\obj\Debug\lqDataTrans.pdb

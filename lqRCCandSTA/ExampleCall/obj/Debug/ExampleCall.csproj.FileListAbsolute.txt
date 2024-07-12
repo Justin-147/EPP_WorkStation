@@ -1,0 +1,2 @@
+J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.exe
+J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\ExampleCall\obj\Debug\ExampleCall.pdb

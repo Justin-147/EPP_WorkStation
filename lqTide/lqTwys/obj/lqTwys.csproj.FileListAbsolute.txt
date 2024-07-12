@@ -1,0 +1,5 @@
+D:\My EPP WorkStation\lqTide\lqTwys\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation\lqTide\lqTwys\bin\Debug\lqTwys.dll
+D:\My EPP WorkStation\lqTide\lqTwys\bin\Debug\lqTwys.pdb
+D:\My EPP WorkStation\lqTide\lqTwys\obj\Debug\lqTwys.dll
+D:\My EPP WorkStation\lqTide\lqTwys\obj\Debug\lqTwys.pdb

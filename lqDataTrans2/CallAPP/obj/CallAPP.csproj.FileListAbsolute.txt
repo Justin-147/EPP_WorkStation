@@ -1,0 +1,40 @@
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\bin\Debug\CallAPP.exe
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\bin\Debug\CallAPP.pdb
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\bin\Debug\lqDataTrans.dll
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\bin\Debug\lqDataTrans.pdb
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\CallAPP.Form1.resources
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\CallAPP.Properties.Resources.resources
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\CallAPP.csproj.GenerateResource.Cache
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\My EPP WorkStation-20120921\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\My EPP WorkStation-20121114\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\My EPP WorkStation-20121114\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121126\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\要做的\My EPP WorkStation-20121126\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20121225\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\要做的\My EPP WorkStation-20121225\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130129\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\要做的\My EPP WorkStation-20130129\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\CallAPP.Form1.resources
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\CallAPP.Properties.Resources.resources
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\obj\Debug\CallAPP.csproj.GenerateResource.Cache
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\bin\Debug\CallAPP.exe
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\bin\Debug\CallAPP.pdb
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\bin\Debug\lqDataTrans.dll
+D:\工作区\论文相关\论文区\420同震\程序\lqDataTrans\CallAPP\bin\Debug\lqDataTrans.pdb
+D:\工作区\论文相关\论文区\420同震\程序\池老师数据批量转换\lqDataTrans\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\论文相关\论文区\420同震\程序\池老师数据批量转换\lqDataTrans\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\CallAPP.exe
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\bin\Debug\CallAPP.exe
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\bin\Debug\CallAPP.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\bin\Debug\lqDataTrans.dll
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\bin\Debug\lqDataTrans.pdb
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\ResolveAssemblyReference.cache
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\CallAPP.Form1.resources
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\CallAPP.Properties.Resources.resources
+D:\工作区\要做的\My EPP WorkStation-20130426\lqDataTrans2\CallAPP\obj\Debug\CallAPP.csproj.GenerateResource.Cache

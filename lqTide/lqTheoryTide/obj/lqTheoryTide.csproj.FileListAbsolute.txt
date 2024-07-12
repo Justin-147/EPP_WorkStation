@@ -1,0 +1,7 @@
+D:\My EPP WorkStation\lqTide\lqTheoryTide\bin\Debug\lqTheoryTide.dll
+D:\My EPP WorkStation\lqTide\lqTheoryTide\bin\Debug\lqTheoryTide.pdb
+D:\My EPP WorkStation\lqTide\lqTheoryTide\obj\Debug\ResolveAssemblyReference.cache
+D:\My EPP WorkStation\lqTide\lqTheoryTide\obj\Debug\lqTheoryTide.dll
+D:\My EPP WorkStation\lqTide\lqTheoryTide\obj\Debug\lqTheoryTide.pdb
+D:\My EPP WorkStation\lqTide\lqTheoryTide\bin\Debug\lqTwys.dll
+D:\My EPP WorkStation\lqTide\lqTheoryTide\bin\Debug\lqTwys.pdb

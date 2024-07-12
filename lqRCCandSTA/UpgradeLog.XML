@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lqRCCandSTA">
+</Property><Property Name="解决方案文件" Value="J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\lqRCCandSTA.sln">
+</Property><Property Name="用户选项文件" Value="J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\lqRCCandSTA.suo">
+</Property><Property Name="Date" Value="2015年2月25日">
+</Property><Property Name="Time" Value="17:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lqRCCandSTA.sln" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA.sln">
+</Event><Event ErrorLevel="0" Project="" Source="lqRCCandSTA.suo" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA.suo">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\lqRCCandSTA.csproj" Description="项目文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA\lqRCCandSTA.csproj">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\lqRCCandSTA.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA\lqRCCandSTA.cs">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\ClassDiagram1.cd" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTA\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\lqRCCandSTA.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="lqRCCandSTA" Source="lqRCCandSTA\lqRCCandSTA.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTACall" Source="lqRCCandSTACall\lqRCCandSTACall.csproj" Description="项目文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTACall\lqRCCandSTACall.csproj">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTACall" Source="lqRCCandSTACall\lqRCCandSTACall.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTACall\lqRCCandSTACall.cs">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTACall" Source="lqRCCandSTACall\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqRCCandSTACall\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTACall" Source="lqRCCandSTACall\lqRCCandSTACall.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="lqRCCandSTACall" Source="lqRCCandSTACall\lqRCCandSTACall.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\ExampleCall.csproj" Description="项目文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\ExampleCall.csproj">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Form1.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Form1.Designer.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Program.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Program.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Properties\Resources.Designer.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Properties\Settings.Designer.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Properties\Settings.settings" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Form1.resx" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\Properties\Resources.resx" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\ExampleCall\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\ExampleCall.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ExampleCall" Source="ExampleCall\ExampleCall.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lqCommonUse" Source="lqCommonUse\lqCommonUse.csproj" Description="项目文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqCommonUse\lqCommonUse.csproj">
+</Event><Event ErrorLevel="0" Project="lqCommonUse" Source="lqCommonUse\lqCommonUse.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqCommonUse\lqCommonUse.cs">
+</Event><Event ErrorLevel="0" Project="lqCommonUse" Source="lqCommonUse\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqCommonUse\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lqCommonUse" Source="lqCommonUse\lqCommonUse.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="lqCommonUse" Source="lqCommonUse\lqCommonUse.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lqZJ" Source="lqZJ\lqZJ.csproj" Description="项目文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqZJ\lqZJ.csproj">
+</Event><Event ErrorLevel="0" Project="lqZJ" Source="lqZJ\lqZJ.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqZJ\lqZJ.cs">
+</Event><Event ErrorLevel="0" Project="lqZJ" Source="lqZJ\Properties\AssemblyInfo.cs" Description="文件已成功备份为 J:\重要备份\My EPP WorkStation-20130509\lqRCCandSTA\Backup\lqZJ\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="lqZJ" Source="lqZJ\lqZJ.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="lqZJ" Source="lqZJ\lqZJ.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lqRCCandSTA.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="lqRCCandSTA.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTA" Source="lqRCCandSTA\lqRCCandSTA.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="lqRCCandSTACall" Source="lqRCCandSTACall\lqRCCandSTACall.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="ExampleCall" Source="ExampleCall\ExampleCall.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="lqCommonUse" Source="lqCommonUse\lqCommonUse.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="lqZJ" Source="lqZJ\lqZJ.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
